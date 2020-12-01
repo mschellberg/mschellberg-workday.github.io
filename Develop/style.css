@@ -38,6 +38,8 @@ textarea{
 .row {
   white-space: pre-wrap;
   height: 80px;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
   border-top: 1px solid black;
 }
 
