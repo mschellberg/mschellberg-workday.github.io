@@ -21,6 +21,8 @@ THEN the text for that event is saved in local storage \
 WHEN I refresh the page \
 THEN the saved events persist
 
-## Website
+## Link to deployed application:
 [Work day](https://mschellberg.github.io/workday/)
+
+## Screenshot of application
 ![workday screenshot](https://user-images.githubusercontent.com/71852138/100799188-b2cfd800-33f2-11eb-9cab-482369ff0e42.png)
