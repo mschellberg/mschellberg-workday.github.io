@@ -1,5 +1,5 @@
 # Work Day Scheduler
-used with html,css,js,jquery & bootstrap
+A simple calendar application that allows the user to add and save events to each hour of a typical work day.
 
 ## User Story
 AS AN employee with a busy schedule \
@@ -20,6 +20,11 @@ WHEN I click the save button for that time block \
 THEN the text for that event is saved in local storage \
 WHEN I refresh the page \
 THEN the saved events persist
+
+## Languages + Technologies Used
+- Html
+- CSS/Bootstrap
+- Jquery
 
 ## Link to deployed application:
 [Work day](https://mschellberg.github.io/workday/)
